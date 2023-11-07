@@ -34,4 +34,7 @@ ________________________________________________________________________________
 
 ![example1](https://github.com/iamcomputergeek/sorting-visualizer/assets/124441523/4defea73-5e17-4def-b347-3d419867ab55)
 
+. SAMPLE 2 (Merge sort)
+
+![mergesort](https://github.com/iamcomputergeek/sorting-visualizer/assets/124441523/ce944191-f829-4903-b477-0155ac6bd276)
 
