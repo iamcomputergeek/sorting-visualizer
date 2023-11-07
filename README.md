@@ -26,3 +26,12 @@ Use 6 to start Heap Sort Algorithm.
 
 Use q to exit out of Sorting Visualizer
 
+SAMPLES:
+_______________________________________________________________________________________________________________________________________
+
+
+. SAMPLE 1 (INSERTION SORT)
+
+![example1](https://github.com/iamcomputergeek/sorting-visualizer/assets/124441523/4defea73-5e17-4def-b347-3d419867ab55)
+
+
